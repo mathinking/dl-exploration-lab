@@ -243,17 +243,17 @@ end
 %%
 %[text] ## Export Results
 %[text] Uncomment the lines below to save the fly-by video as an animated GIF and export this script as an HTML report. The pre-generated report is available in the `results` folder.
-if ~isfolder("results"), mkdir("results"); end
-gifFile = fullfile("results", "FlyByAnnotated.gif");
-for k = 1:nSampled
-    [ind, cmap] = rgb2ind(annotatedFrames(:,:,:,k), 256);
-    if k == 1
-        imwrite(ind, cmap, gifFile, "gif", LoopCount=Inf, DelayTime=frameStep/v.FrameRate);
-    else
-        imwrite(ind, cmap, gifFile, "gif", WriteMode="append", DelayTime=frameStep/v.FrameRate);
-    end
-end
-export("SatellitePoseEstimation.m", fullfile("results", "SatellitePoseEstimation.html"));
+% if ~isfolder("results"), mkdir("results"); end
+% gifFile = fullfile("results", "FlyByAnnotated.gif");
+% for k = 1:nSampled
+%     [ind, cmap] = rgb2ind(annotatedFrames(:,:,:,k), 256);
+%     if k == 1
+%         imwrite(ind, cmap, gifFile, "gif", LoopCount=Inf, DelayTime=frameStep/v.FrameRate);
+%     else
+%         imwrite(ind, cmap, gifFile, "gif", WriteMode="append", DelayTime=frameStep/v.FrameRate);
+%     end
+% end
+% export("SatellitePoseEstimation.m", fullfile("results", "SatellitePoseEstimation.html"));
 %%
 %[text] *Copyright 2024-2026 The MathWorks, Inc.*
 
