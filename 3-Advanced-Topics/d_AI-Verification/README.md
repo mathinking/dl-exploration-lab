@@ -1,7 +1,5 @@
 # AI Verification: Proving Neural Network Robustness
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/dl-exploration-lab&project=3-Advanced-Topics/d_AI-Verification)
-
 This exercise demonstrates how to verify that neural networks behave correctly using formal methods from the AI Verification Library. Using the ACAS Xu (Airborne Collision Avoidance System for unmanned aircraft) neural networks, the exercise progresses from exploring network behavior, to formally proving local robustness, to verifying global stability across the entire operational design domain.
 
 Based on the example [Verify and Deploy ACAS Xu Neural Networks](https://www.mathworks.com/help/deeplearning/ug/verify-and-deploy-acas-xu-neural-networks.html).
@@ -39,10 +37,16 @@ Install the following from the MATLAB Add-On Explorer:
 2. Run `helper.setupModels` to download the ACAS Xu neural networks
 3. Open `AIVerification.m` as a Live Script and run section by section
 
+## Results
+
+View the full pre-generated HTML report:
+
+* [AIVerification](https://mathinking.github.io/dl-exploration-lab/3-Advanced-Topics/d_AI-Verification/results/AIVerification.html)
+
 ## References
 
 - [Verify and Deploy ACAS Xu Neural Networks](https://www.mathworks.com/help/deeplearning/ug/verify-and-deploy-acas-xu-neural-networks.html)
 - [verifyNetworkRobustness](https://www.mathworks.com/help/deeplearning/ref/verifynetworkrobustness.html)
 - [estimateNetworkOutputBounds](https://www.mathworks.com/help/deeplearning/ref/estimatenetworkoutputbounds.html)
 
-*Copyright 2024-2026 The MathWorks, Inc.*
+*Copyright 2026 The MathWorks, Inc.*
