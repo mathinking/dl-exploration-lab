@@ -17,7 +17,7 @@ Open `GettingStarted.m` and run it section by section. The script uses the built
 
 The complete solution with pre-generated results is available here:
 
-* [GettingStarted](https://mathinking.github.io/dl-exploration-lab/1-Getting-Started/results/GettingStarted.html)
+* [Getting Started](https://mathinking.github.io/dl-exploration-lab/1-Getting-Started/results/GettingStarted.html)
 
 ## Pipeline Overview
 

@@ -28,8 +28,8 @@ Pre-trained models for both datasets are available in `models/`.
 
 View the full pre-generated HTML reports for each dataset:
 
-* [BuildNanoGPT &mdash; Tiny Shakespeare](https://mathinking.github.io/dl-exploration-lab/3-Advanced-Topics/c_Language-Modeling/results/BuildNanoGPT_tinyshakespeare.html)
-* [BuildNanoGPT &mdash; Don Quijote](https://mathinking.github.io/dl-exploration-lab/3-Advanced-Topics/c_Language-Modeling/results/BuildNanoGPT_quijote.html)
+* [Build NanoGPT &mdash; Tiny Shakespeare](https://mathinking.github.io/dl-exploration-lab/3-Advanced-Topics/c_Language-Modeling/results/BuildNanoGPT_tinyshakespeare.html)
+* [Build NanoGPT &mdash; Don Quijote](https://mathinking.github.io/dl-exploration-lab/3-Advanced-Topics/c_Language-Modeling/results/BuildNanoGPT_quijote.html)
 
 ### Sample output &mdash; Tiny Shakespeare
 

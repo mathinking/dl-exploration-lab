@@ -19,7 +19,7 @@ The exercise includes interactive sections where you build a network in [Deep Ne
 
 The complete solution with pre-generated results is available here:
 
-* [ImageClassification &mdash; Solution](https://mathinking.github.io/dl-exploration-lab/2-Image-Classification/results/ImageClassification.html)
+* [Image Classification](https://mathinking.github.io/dl-exploration-lab/2-Image-Classification/results/ImageClassification.html)
 
 ## Pipeline Overview
 

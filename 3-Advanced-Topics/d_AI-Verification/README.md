@@ -41,7 +41,7 @@ Install the following from the MATLAB Add-On Explorer:
 
 View the full pre-generated HTML report:
 
-* [AIVerification](https://mathinking.github.io/dl-exploration-lab/3-Advanced-Topics/d_AI-Verification/results/AIVerification.html)
+* [AI Verification](https://mathinking.github.io/dl-exploration-lab/3-Advanced-Topics/d_AI-Verification/results/AIVerification.html)
 
 ## References
 

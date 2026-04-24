@@ -24,7 +24,7 @@ Pre-trained models are stored in `models/` and helper functions are organized in
 
 View the full pre-generated HTML report:
 
-* [SatellitePoseEstimation](https://mathinking.github.io/dl-exploration-lab/3-Advanced-Topics/b_Object-Detection-and-Localization/results/SatellitePoseEstimation.html)
+* [Satellite Pose Estimation](https://mathinking.github.io/dl-exploration-lab/3-Advanced-Topics/b_Object-Detection-and-Localization/results/SatellitePoseEstimation.html)
 
 ![Fly-By Pose Estimation](results/FlyByAnnotated.gif)
 
